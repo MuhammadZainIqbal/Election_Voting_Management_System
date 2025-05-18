@@ -1,6 +1,5 @@
 # Election Voting Management System
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
@@ -18,7 +17,6 @@ A comprehensive C++ console-based application for managing election processes, v
 - [Development](#development)
 - [Limitations & Future Enhancements](#limitations--future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -70,8 +68,8 @@ The system follows an object-oriented architecture with the following class stru
 ## User Roles
 
 ### Presiding Officer
-Administrators with full system access. Default credentials: 
-- Username: `asim`
+Administrators with full system access. Default credentials:  
+- Username: `asim`  
 - Password: `1122`
 
 ### Voter
@@ -178,15 +176,11 @@ The codebase follows an object-oriented approach with inheritance hierarchies an
 
 Contributions to improve the Election Voting Management System are welcome. Please follow these steps:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Fork the repository  
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)  
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)  
+4. Push to the branch (`git push origin feature/amazing-feature`)  
+5. Open a Pull Request  
 
 ---
 
